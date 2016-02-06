@@ -1,6 +1,6 @@
 ## Assignment Files
 The assignment requirements are described below
-The files for the assignment are as follows:
+The files for the assignment are as follows:  
 1. plot1.R and plot1.png - code and output files for first plot  
 2. plot2.R and plot2.png - code and output for second plot  
 3. plot3.R and plot3.png - code and output for third plot  
